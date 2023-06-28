@@ -1,16 +1,17 @@
 {
 	"author": "Pablo Setrakian",
 	"name": "fcc-learn-npm-package-json",
-	"description": "A description",
+	"description": "This is a sample package.json file for learning purposes.",
 	"dependencies": {
-		"express": "^4.14.0"
+	  "express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+	  "start": "node server.js"
 	},
 	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
+	  "type": "git",
+	  "url": "https://idontknow/todo.git"
 	}
-}
+  }
+  
